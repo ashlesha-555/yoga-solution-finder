@@ -1,4 +1,4 @@
 # Yoga Solution Finder
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 ![Asanas](Add%20yogaa.png)
